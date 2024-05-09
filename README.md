@@ -1,4 +1,4 @@
-![image](https://github.com/hassan-imran/Live-Transcriber/assets/43490649/1b47ec80-5f43-449f-aeeb-fe76bb4af214)![image](https://github.com/hassan-imran/Live-Transcriber/assets/43490649/5132ff76-d102-4022-bfb6-1e36edfe477f)![image](https://github.com/hassan-imran/Live-Transcriber/assets/43490649/4ce6e7d6-b2ef-4af4-a88c-37a15371d451)![image](https://github.com/hassan-imran/Live-Transcriber/assets/43490649/810bcf46-d713-40c7-b5ab-732c4f09f5d3)![image](https://github.com/hassan-imran/Live-Transcriber/assets/43490649/5ca432ad-9931-4920-a7f1-c026e22f887f)# Automatic Speech Recognition using Wav2Vec2 & Whisper by OpenAI
+# Automatic Speech Recognition using Wav2Vec2 & Whisper by OpenAI
 
 ## Introduction
 Automatic Speech Recognition (ASR), or speech-to-text, is a way for computers to convert the human speech language in media files to a readable text.
