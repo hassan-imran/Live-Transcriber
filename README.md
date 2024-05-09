@@ -1,4 +1,4 @@
-# Automatic Speech Recognition using Wav2Vec2 & Whisper by OpenAI
+# Automatic Speech Recognition using Wav2Vec2 & Whisper by OpenAI using Jupyter Notebook
 
 ## Introduction
 Automatic Speech Recognition (ASR), or speech-to-text, is a way for computers to convert the human speech language in media files to a readable text.
